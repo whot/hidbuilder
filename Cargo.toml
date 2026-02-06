@@ -1,0 +1,11 @@
+[package]
+name = "hidbuilder"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hidreport = "0.6.0"
+thiserror = "2.0.18"
+
+[dev-dependencies]
+hut = "0.5.0"
